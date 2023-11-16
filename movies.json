@@ -1,0 +1,86 @@
+[
+    {
+        "titulo": "30 años de oscuridad",
+        "director": "Manuel H. Martin",
+        "año": 2012,
+        "genero": "Documental",
+        "duración": "Largometraje",
+        "imagen": "assets/img/29.webp"
+    },
+    {
+        "titulo": "Años de calle",
+        "director": "Alejandra Grinschpun",
+        "año": 2013,
+        "genero": "Documental",
+        "duración": "Largometraje",
+        "imagen": "assets/img/34.webp"
+    },
+    {
+        "titulo": "Bolishopping",
+        "director": "Pablo Stigliani",
+        "año": 2014,
+        "genero": "Ficción",
+        "duración": "Largometraje",
+        "imagen": "assets/img/33.webp"
+    },
+    {
+        "titulo": "Guaraní",
+        "director": "Luis Zorraquín",
+        "año": 2016,
+       "genero": "Ficción",
+        "duración": "Largometraje",
+        "imagen": "assets/img/32.webp"
+    },
+    {
+        "titulo": "El otro lado de todo",
+        "director": "Mira Turajlik",
+        "año": 2017,
+        "genero": "Ficción",
+        "duración": "Largometraje",
+        "imagen": "assets/img/30.webp"
+    },
+    {
+        "titulo": "A new home",
+        "director": "Žiga Virc",
+        "año": 2016,
+        "genero": "Ficción",
+        "duración": "Cortometraje",
+        "imagen": "assets/img/28.webp"
+    },
+    {
+        "titulo": "Chike",
+        "sinopsis": "La adolescencia es muchas veces un camino sinuoso y solitario. Ana y Carla se encuentran para experimentar con sus deseos, determinaciones y miedos para vivir momentos fugaces pero decisivos.",
+        "director": "Lucia Ravanelli",
+        "año": 2016,
+        "genero": "Ficción",
+        "duración": "Cortometraje",
+        "imagen": "assets/img/31.webp"
+    },
+    {
+        "titulo": "Les miserables",
+        "sinopsis": "En el barrio de la novela de Victor Hugo, devenido al día de hoy en barrio marginal, un policía recién transferido aprende prácticas policiales abusivas de sus dos compañeros más veteranos. La comunidad amenaza con explotar cuando un adolescente logra filmarlos.",
+        "director": "Ladj Ly",
+        "año": 2017,
+        "genero": "Ficción",
+        "duración": "Cortometraje",
+        "imagen": "assets/img/35.webp"
+    },
+    {
+        "titulo": "Mudar la piel",
+        "sinopsis": "Mudar la piel indaga en la amistad entre Juan, el mediador que trató de alcanzar la paz entre ETA y el gobierno español, y Roberto, el espía de los servicios secretos que se infiltró en su vida y en la de su familia durante años. Una amistad que persiste a pesar de la traición y el misterio. Además, la película es también la crónica de la relación de los cineastas con el espía y la dificultad de atrapar su escurridiza identidad.",
+        "director": "Ana Schulz y Cristóbal Fernández",
+        "año": 2018,
+        "genero": "Documental",
+        "duración": "Largometraje",
+        "imagen": "assets/img/37.webp"
+    },
+    {
+        "titulo": "Fe en la resistencia",
+        "sinopsis": "Un documental que busca hacer memoria y recoger historias de personas que, en los años 60, 70 y 80, en Uruguay y Latinoamérica, vivieron un contexto de diálogo entre movimientos sociales, políticos y religiosos que anhelaban concretar la transformación social.",
+        "director": "Nicolás Iglesias",
+        "año": 2018,
+        "genero": "Documentral",
+        "duración": "Largometraje",
+        "imagen": "assets/img/36.webp"
+    }
+]
